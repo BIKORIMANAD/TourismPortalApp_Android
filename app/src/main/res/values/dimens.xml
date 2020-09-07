@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="row_padding_vertical">10dp</dimen>
+
+    <dimen name="card_margin">5dp</dimen>
+    <dimen name="card_album_radius">0dp</dimen>
+    <dimen name="card_cover_height">390dp</dimen>
+    <dimen name="card_title_padding">10dp</dimen>
+    <dimen name="card_price_padding_bottom">5dp</dimen>
+
+    <dimen name="txt_height">50dp</dimen>
+    <dimen name="warning_size">24dp</dimen>
+    <dimen name="spinner_list_size">24sp</dimen>
+    <dimen name="warning_margin">10dp</dimen>
+</resources>

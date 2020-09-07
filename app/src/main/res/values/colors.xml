@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#ff4800</color>-->
+    <!--<color name="colorPrimaryDark">#dc4a10</color>-->
+    <!--<color name="colorAccent">#009cfd</color>-->
+
+    <color name="colorPrimaryEditor">#69483D</color>
+    <color name="colorPrimaryDarkEditor">#027EB6</color>
+    <color name="colorAccentEditor">#e24000</color>
+
+    <color name="colorPrimary">#AD4D312C</color>
+    <color name="colorPrimaryDark">#AD41211C</color>
+    <color name="colorAccent">#AD4D312C</color>
+    <color name="greySplash">#ADA0766F</color>
+    <color name="grey">#E1FADCD6</color>
+    <color name="white">#fff</color>
+    <color name="blue">#03A9F4</color>
+
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+</resources>

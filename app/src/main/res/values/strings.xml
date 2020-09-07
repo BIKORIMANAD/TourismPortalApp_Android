@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Tourism Trip Portal</string>
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Active</string>
+    <string name="gender_female">Desactive</string>
+
+
+    <string name="listofalltouristi">LIST OF ALL TOURISTIC SITES</string>
+    <string name="listofallplannedtrip">LIST OF ALL PLANNED TRIPS</string>
+    <string name="suggestions">LIST OF ALL SUGGESTIONS</string>
+    <string name="addsuggestions">ADD NEW SUGGESTIONS</string>
+
+    <string name="splash_image">Splash</string>
+    <string name="copy">Tourism trip portal, Copy right @2019</string>
+    <string name="loading">Wait components loading.....</string>
+    <array name="teams">
+        <item>Avengers</item>
+        <item>X Men</item>
+        <item>Justice League</item>
+    </array>
+
+    <string name="server">http://172.20.10.6/2019/TourismTripPortal/</string>
+
+    <string name="new_student_name_hint">Student Name</string>
+    <string name="new_student_date_of_birth_hint">Date Of Birth</string>
+    <string name="new_student_class_name_hint">Class Name</string>
+    <string name="new_student_picture">Take Picture</string>
+    <string name="new_student_save">Save</string>
+
+    <string name="new_student_gender_male">Male</string>
+    <string name="new_student_gender_female">Female</string>
+
+    <string name="new_student_take_picture">Take Picture</string>
+    <string name="new_student_warning">Please Tap on take picture after filling in other information. because after taking picture the save operation will be automatic</string>
+</resources>
